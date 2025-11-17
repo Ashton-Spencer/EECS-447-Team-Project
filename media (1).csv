@@ -1,0 +1,26 @@
+item_id,title,publisher,publication_date,type,availability,director_first,director_last
+26,Echoes of Tomorrow,Harbor Press,2005-02-19,media,available,Quinn,Davis
+27,Midnight Parallax,Oak & Ivy,2007-12-01,media,checked_out,Quinn,Martinez
+28,The Last Beacon,Riverbend,1994-02-27,media,available,Alex,Martinez
+29,Velvet Circuit,Crescent Works,2024-07-30,media,checked_out,Casey,Garcia
+30,Irons in the Sky,Redwood House,2019-04-23,media,reserved,Riley,Johnson
+31,Lanterns on the Shore,Oak & Ivy,1999-10-22,media,reserved,Sam,Rodriguez
+32,Fractured Meridian,Redwood House,2007-03-17,media,checked_out,Avery,Johnson
+33,Hollow Crown Protocol,Northstar Press,2008-11-21,media,checked_out,Jordan,Wilson
+34,Stardust Courier,Blue Horizon,2020-09-19,media,checked_out,Avery,Wilson
+35,Ash & Ember,Silverline Media,2001-07-09,media,checked_out,Riley,Davis
+36,The Quiet Algorithm,Starlight Publishing,1997-02-24,media,checked_out,Quinn,Clark
+37,Harbor of Glass,Starlight Publishing,2017-10-02,media,reserved,Jamie,Miller
+38,Neon Orchard,Redwood House,2007-01-15,media,checked_out,Casey,Martinez
+39,Gilded Static,Harbor Press,2019-12-04,media,checked_out,Jamie,Garcia
+40,Paper Planets,Redwood House,2019-10-31,media,reserved,Taylor,Clark
+41,The Winter Frequency,Blue Horizon,2019-06-25,media,checked_out,Jamie,Rodriguez
+42,Clockwork Letters,Redwood House,2008-04-24,media,checked_out,Sam,Davis
+43,Paint the Horizon,Harbor Press,1995-01-15,media,reserved,Parker,Brown
+44,Sundial City,Harbor Press,2013-06-03,media,checked_out,Sam,Rodriguez
+45,The Lattice Road,Silverline Media,2012-12-05,media,checked_out,Casey,Garcia
+46,Remembering Andromeda,Crescent Works,2010-12-30,media,reserved,Parker,Clark
+47,The Mapmaker's Son,Starlight Publishing,2024-06-11,media,reserved,Reese,Garcia
+48,Axiom Blue,Redwood House,2023-02-28,media,available,Jordan,Garcia
+49,Songs from the Basement,Maple Leaf Publishing,2016-01-16,media,available,Alex,Davis
+50,Blackbird Station,Blue Horizon,2006-07-25,media,reserved,Sam,Rodriguez

@@ -1,0 +1,26 @@
+item_id,title,publisher,publication_date,type,availability,genre,author_firstname,author_lastname,isbn
+1,To Kill a Mockingbird,Crescent Works,2007-01-30,book,available,Mystery,Harper,Lee,1247242720
+2,1984,Redwood House,1995-12-24,book,available,Fantasy,George,Orwell,1782791100
+3,Pride and Prejudice,Crescent Works,2013-10-23,book,reserved,Romance,Jane,Austen,1096460984
+4,The Great Gatsby,Starlight Publishing,2011-12-13,book,available,Biography,F. Scott,Fitzgerald,1775483847
+5,Moby-Dick,Starlight Publishing,2016-05-24,book,available,History,Herman,Melville,1882965198
+6,War and Peace,Crescent Works,2020-08-10,book,available,Mystery,Leo,Tolstoy,1495513911
+7,The Catcher in the Rye,Silverline Media,2015-06-07,book,checked_out,Nonfiction,J.D.,Salinger,1769529290
+8,The Hobbit,Riverbend,2020-05-21,book,available,Education,J.R.R.,Tolkien,1339709088
+9,Fahrenheit 451,Crescent Works,1991-11-30,book,checked_out,Romance,Ray,Bradbury,1008181695
+10,Brave New World,Crescent Works,1999-02-21,book,checked_out,Romance,Aldous,Huxley,1086775979
+11,The Lord of the Rings,Northstar Press,2013-04-07,book,available,Education,J.R.R.,Tolkien,1055102070
+12,Jane Eyre,Oak & Ivy,1995-10-17,book,available,Mystery,Charlotte,Brontë,1802630928
+13,Wuthering Heights,Northstar Press,2016-09-16,book,available,Romance,Emily,Brontë,1708991357
+14,Crime and Punishment,Silverline Media,1991-08-31,book,available,Fiction,Fyodor,Dostoevsky,1183810887
+15,The Picture of Dorian Gray,Northstar Press,2020-09-04,book,checked_out,Nonfiction,Oscar,Wilde,1456791494
+16,Great Expectations,Maple Leaf Publishing,1996-05-30,book,checked_out,Fiction,Charles,Dickens,1409161680
+17,The Grapes of Wrath,Oak & Ivy,1996-02-04,book,reserved,Biography,John,Steinbeck,1215601357
+18,One Hundred Years of Solitude,Harbor Press,2018-09-23,book,available,Education,Gabriel,García Márquez,1276570743
+19,The Alchemist,Riverbend,2008-02-16,book,available,History,Paulo,Coelho,1746249394
+20,The Handmaid's Tale,Northstar Press,1992-07-03,book,available,Mystery,Margaret,Atwood,1652872139
+21,The Kite Runner,Crescent Works,1995-07-31,book,available,Nonfiction,Khaled,Hosseini,1154256338
+22,The Da Vinci Code,Blue Horizon,1997-10-24,book,available,Biography,Dan,Brown,1156241727
+23,The Girl with the Dragon Tattoo,Redwood House,2015-03-01,book,checked_out,Education,Stieg,Larsson,1856809041
+24,The Fault in Our Stars,Redwood House,2001-07-22,book,available,History,John,Green,1199664370
+25,A Game of Thrones,Maple Leaf Publishing,2012-06-26,book,checked_out,Fiction,George R.R.,Martin,1628882569

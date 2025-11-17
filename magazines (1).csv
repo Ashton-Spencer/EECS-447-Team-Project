@@ -1,0 +1,26 @@
+item_id,title,publisher,publication_date,type,availability,issue_number
+51,Urban Atlas,Starlight Publishing,2015-10-16,magazine,checked_out,100
+52,Tech Horizons,Maple Leaf Publishing,2025-08-07,magazine,checked_out,205
+53,Green & Grain,Silverline Media,2001-11-17,magazine,checked_out,169
+54,Northwind Traveler,Silverline Media,1995-11-11,magazine,checked_out,445
+55,Byte & Beam,Crescent Works,2008-10-04,magazine,reserved,489
+56,Culinary Canvas,Silverline Media,2006-02-21,magazine,checked_out,107
+57,Modern Homestead,Blue Horizon,2010-10-11,magazine,reserved,433
+58,Summit Review,Crescent Works,1998-03-29,magazine,checked_out,294
+59,Artisan Quarterly,Northstar Press,2019-10-31,magazine,available,39
+60,Harbor Living,Riverbend,2000-09-30,magazine,checked_out,268
+61,Circuit Journal,Harbor Press,1995-02-25,magazine,checked_out,408
+62,Well & Good,Northstar Press,1993-03-28,magazine,checked_out,336
+63,Frame by Frame,Harbor Press,2015-07-21,magazine,reserved,273
+64,Garden & Grove,Blue Horizon,2018-06-02,magazine,available,299
+65,City Sound,Oak & Ivy,2008-07-26,magazine,checked_out,85
+66,Field Notes,Silverline Media,2016-05-20,magazine,available,204
+67,Makers Monthly,Harbor Press,1992-02-22,magazine,checked_out,262
+68,Coastal Chronicle,Redwood House,2014-11-28,magazine,checked_out,82
+69,Venture & Valor,Northstar Press,1992-07-31,magazine,reserved,397
+70,Campus Today,Crescent Works,2000-04-19,magazine,available,60
+71,Science Current,Northstar Press,1997-09-16,magazine,checked_out,142
+72,Infinite Play,Oak & Ivy,1993-03-03,magazine,reserved,471
+73,Studio & Street,Redwood House,2024-10-16,magazine,reserved,89
+74,The Weekend Reader,Oak & Ivy,2019-04-11,magazine,reserved,42
+75,The Silver Lining,Maple Leaf Publishing,2022-07-06,magazine,available,423

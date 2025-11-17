@@ -1,0 +1,76 @@
+item_id,title,publisher,publication_date,type,availability
+1,To Kill a Mockingbird,Crescent Works,2007-01-30,book,available
+2,1984,Redwood House,1995-12-24,book,available
+3,Pride and Prejudice,Crescent Works,2013-10-23,book,reserved
+4,The Great Gatsby,Starlight Publishing,2011-12-13,book,available
+5,Moby-Dick,Starlight Publishing,2016-05-24,book,available
+6,War and Peace,Crescent Works,2020-08-10,book,available
+7,The Catcher in the Rye,Silverline Media,2015-06-07,book,checked_out
+8,The Hobbit,Riverbend,2020-05-21,book,available
+9,Fahrenheit 451,Crescent Works,1991-11-30,book,checked_out
+10,Brave New World,Crescent Works,1999-02-21,book,checked_out
+11,The Lord of the Rings,Northstar Press,2013-04-07,book,available
+12,Jane Eyre,Oak & Ivy,1995-10-17,book,available
+13,Wuthering Heights,Northstar Press,2016-09-16,book,available
+14,Crime and Punishment,Silverline Media,1991-08-31,book,available
+15,The Picture of Dorian Gray,Northstar Press,2020-09-04,book,checked_out
+16,Great Expectations,Maple Leaf Publishing,1996-05-30,book,checked_out
+17,The Grapes of Wrath,Oak & Ivy,1996-02-04,book,reserved
+18,One Hundred Years of Solitude,Harbor Press,2018-09-23,book,available
+19,The Alchemist,Riverbend,2008-02-16,book,available
+20,The Handmaid's Tale,Northstar Press,1992-07-03,book,available
+21,The Kite Runner,Crescent Works,1995-07-31,book,available
+22,The Da Vinci Code,Blue Horizon,1997-10-24,book,available
+23,The Girl with the Dragon Tattoo,Redwood House,2015-03-01,book,checked_out
+24,The Fault in Our Stars,Redwood House,2001-07-22,book,available
+25,A Game of Thrones,Maple Leaf Publishing,2012-06-26,book,checked_out
+26,Echoes of Tomorrow,Harbor Press,2005-02-19,media,available
+27,Midnight Parallax,Oak & Ivy,2007-12-01,media,checked_out
+28,The Last Beacon,Riverbend,1994-02-27,media,available
+29,Velvet Circuit,Crescent Works,2024-07-30,media,checked_out
+30,Irons in the Sky,Redwood House,2019-04-23,media,reserved
+31,Lanterns on the Shore,Oak & Ivy,1999-10-22,media,reserved
+32,Fractured Meridian,Redwood House,2007-03-17,media,checked_out
+33,Hollow Crown Protocol,Northstar Press,2008-11-21,media,checked_out
+34,Stardust Courier,Blue Horizon,2020-09-19,media,checked_out
+35,Ash & Ember,Silverline Media,2001-07-09,media,checked_out
+36,The Quiet Algorithm,Starlight Publishing,1997-02-24,media,checked_out
+37,Harbor of Glass,Starlight Publishing,2017-10-02,media,reserved
+38,Neon Orchard,Redwood House,2007-01-15,media,checked_out
+39,Gilded Static,Harbor Press,2019-12-04,media,checked_out
+40,Paper Planets,Redwood House,2019-10-31,media,reserved
+41,The Winter Frequency,Blue Horizon,2019-06-25,media,checked_out
+42,Clockwork Letters,Redwood House,2008-04-24,media,checked_out
+43,Paint the Horizon,Harbor Press,1995-01-15,media,reserved
+44,Sundial City,Harbor Press,2013-06-03,media,checked_out
+45,The Lattice Road,Silverline Media,2012-12-05,media,checked_out
+46,Remembering Andromeda,Crescent Works,2010-12-30,media,reserved
+47,The Mapmaker's Son,Starlight Publishing,2024-06-11,media,reserved
+48,Axiom Blue,Redwood House,2023-02-28,media,available
+49,Songs from the Basement,Maple Leaf Publishing,2016-01-16,media,available
+50,Blackbird Station,Blue Horizon,2006-07-25,media,reserved
+51,Urban Atlas,Starlight Publishing,2015-10-16,magazine,checked_out
+52,Tech Horizons,Maple Leaf Publishing,2025-08-07,magazine,checked_out
+53,Green & Grain,Silverline Media,2001-11-17,magazine,checked_out
+54,Northwind Traveler,Silverline Media,1995-11-11,magazine,checked_out
+55,Byte & Beam,Crescent Works,2008-10-04,magazine,reserved
+56,Culinary Canvas,Silverline Media,2006-02-21,magazine,checked_out
+57,Modern Homestead,Blue Horizon,2010-10-11,magazine,reserved
+58,Summit Review,Crescent Works,1998-03-29,magazine,checked_out
+59,Artisan Quarterly,Northstar Press,2019-10-31,magazine,available
+60,Harbor Living,Riverbend,2000-09-30,magazine,checked_out
+61,Circuit Journal,Harbor Press,1995-02-25,magazine,checked_out
+62,Well & Good,Northstar Press,1993-03-28,magazine,checked_out
+63,Frame by Frame,Harbor Press,2015-07-21,magazine,reserved
+64,Garden & Grove,Blue Horizon,2018-06-02,magazine,available
+65,City Sound,Oak & Ivy,2008-07-26,magazine,checked_out
+66,Field Notes,Silverline Media,2016-05-20,magazine,available
+67,Makers Monthly,Harbor Press,1992-02-22,magazine,checked_out
+68,Coastal Chronicle,Redwood House,2014-11-28,magazine,checked_out
+69,Venture & Valor,Northstar Press,1992-07-31,magazine,reserved
+70,Campus Today,Crescent Works,2000-04-19,magazine,available
+71,Science Current,Northstar Press,1997-09-16,magazine,checked_out
+72,Infinite Play,Oak & Ivy,1993-03-03,magazine,reserved
+73,Studio & Street,Redwood House,2024-10-16,magazine,reserved
+74,The Weekend Reader,Oak & Ivy,2019-04-11,magazine,reserved
+75,The Silver Lining,Maple Leaf Publishing,2022-07-06,magazine,available
